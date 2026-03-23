@@ -57,7 +57,10 @@ This project was developed as part of a B.Tech semester project to demonstrate f
 ---
 
 ## Contributors
-Janavi Arora  
+Nishtha Sheoran
+Pragya Jyoti
+Diksha Rani
+Janavi Arora
 B.Tech Student
 
 ---
